@@ -8,7 +8,7 @@ export const listData = [
       price: 1000,
       address: "456 Park Avenue, London",
       latitude: 51.5074,
-      longitude: -0.1278,
+      longitude: 0.04699,
     },
     {
       id: 2,
@@ -18,8 +18,8 @@ export const listData = [
       bathroom: 2,
       price: 1500,
       address: "789 Oxford Street, London",
-      latitude: 52.4862,
-      longitude: -1.8904,
+      latitude: 51.51592,
+      longitude:  -0.13636,
     },
     {
       id: 3,
@@ -103,7 +103,7 @@ export const listData = [
     bathroom: 1,
     size: 861,
     latitude: 51.5074,
-    longitude: -0.1278,
+    longitude: 0.04699,
     city: "London",
     address: "1234 Broadway St",
     school: "250m away",

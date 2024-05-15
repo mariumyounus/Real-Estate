@@ -3,12 +3,20 @@
     height: 100%;
     .listcontainer{
 flex:3;
+height: 100%;
 .wrapper{
+    height: 100%;
     padding-right:50px ;
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+    overflow-y: scroll;
+    padding:50px;
 }
     }
     .mapcontainer{
 flex:2;
 background-color: #fcf5f3;
+height: 100%;
     }
 }
